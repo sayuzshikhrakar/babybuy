@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Baby Buy</string>
+    <string name="slogan"> Your baby, Your World.</string>
+    <string name="edit_text_hint"><font size="15">Phone Number</font></string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573215148175",
+    "firebase_url": "https://baby-buy-1-default-rtdb.firebaseio.com",
+    "project_id": "baby-buy-1",
+    "storage_bucket": "baby-buy-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573215148175:android:926ccb901d61184e5088fa",
+        "android_client_info": {
+          "package_name": "com.example.babybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573215148175-6sjmfct7ca59m5u7ctrdjn4k664e1rs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babybuy",
+            "certificate_hash": "be3618decdd0056eaa7428dc048097aaaa4e880a"
+          }
+        },
+        {
+          "client_id": "573215148175-ubbpt9kf31jb1g05r0fau36qo5rpmpjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-zNzaOKUcqk2fioqfcfCDBli4_MigCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573215148175-ubbpt9kf31jb1g05r0fau36qo5rpmpjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
